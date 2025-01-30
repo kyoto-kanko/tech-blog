@@ -14,3 +14,9 @@ https://github.com/kyoto-kanko/kyoto-kanko-tech-blog
 
 - ヘッドレスCMSをやめて、記事を静的ファイルとして配信する
 - SSR -> SSG
+
+## 利用サービス(仮)
+
+- Cloudflare Pages
+- React 19
+- Next.js 15
